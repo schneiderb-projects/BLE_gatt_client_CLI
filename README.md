@@ -11,7 +11,7 @@ make sure you've got python 3 installed with pip and venv
 ```bash
 cd path_to_this_directory
 ```
-## create virtual environment: 
+### create virtual environment: 
 ```bash
 python3 -m venv venv
 ```
